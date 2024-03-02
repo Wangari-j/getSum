@@ -1,6 +1,4 @@
-def getSum (numbers):
-  print(num1+num2+ num3)
+def getSum (lst):
+    return sum(lst)
 
-getSum([2,7,4])
-
-
+print(getSum([2,7,4]))
